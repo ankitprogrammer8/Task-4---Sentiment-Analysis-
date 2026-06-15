@@ -1,7 +1,7 @@
 # 🎯 Task 4 - Sentiment Analysis using NLP
 ## CodTech IT Solutions — Data Analytics Internship
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.14.5%2B-blue)
 ![NLP](https://img.shields.io/badge/NLP-NLTK%20%7C%20VADER-green)
 ![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
